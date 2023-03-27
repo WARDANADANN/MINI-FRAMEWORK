@@ -1,4 +1,9 @@
 # FRAME
+CARA INSTAL
+jalankan apk.exe
+lalu ketik 
+create-project
+
 CARA PAKAI FRAME
 query("code sql query here")
 
